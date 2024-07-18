@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robsabo
 - 👀 I’m interested in programing games, apps, websites, cyber security, making music!
-- 🌱 I’m currently learning about cyber security, java script, css
+- 🌱 I’m currently learning about cyber security, java script, css, backend development basics
 - 💞️ I’m looking to collaborate on almost anything that my skills allow for
 - 📫 How to reach me rsabo792@gmail.com
 - 😄 Pronouns: he/him
